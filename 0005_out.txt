@@ -1,0 +1,2 @@
+Zadejte sudoku:
+Sudoku nema zadne reseni.

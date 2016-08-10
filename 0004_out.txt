@@ -1,0 +1,2 @@
+Zadejte sudoku:
+Reseni neni jednoznacne (20 variant).
